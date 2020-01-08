@@ -1,0 +1,256 @@
+/* archive course*/
+*,html,body{
+    margin:0;
+    padding:0;
+}
+.IB-hero{
+	padding-top: 180px;
+    padding-bottom: 180px;
+	background-image: url("https://wordpress-258137-1067901.cloudwaysapps.com/wp-content/uploads/2019/11/bg-academy.jpg");
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+
+.IB-hero-text h1{
+    font-family: Titillium Web;
+    font-size: 72px;
+    font-weight: bold ;
+    text-align: center;
+    color:#ffffff;
+    margin:0;
+
+}
+
+/* end archive course*/
+
+
+/* loop course*/
+.entry-content{
+    background-color: #f2f4f6;
+}
+
+.IS-course-list{
+
+}
+
+.IS-list ul li{
+    list-style: none;
+}
+.IS-list ul li a:visited{
+   color: #333333;
+}
+.IS-list ul li a:active{
+   color: #333333;
+}
+.IS-list ul li a:link{
+   color: #333333;
+}
+
+.IS-list  ul{
+    padding:0;
+    margin:0;
+}
+
+.IS-title{
+    font-family: Titillium Web;
+    font-size: 32px;
+    font-weight: bold ;
+    text-align: center;
+    color:#333333;
+    text-align: left;
+    border-bottom: 1px solid #dfe0e1;
+    padding-bottom: 10px;
+}
+
+.IS-list p{
+    position: relative;
+}
+
+.IS-list p:after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: #47b0c7;
+    content: " ";
+    
+    
+}
+
+.IS-container{
+    padding-top: 40px !important;
+    padding-bottom: 100px !important;
+}
+
+.IS-list p{
+    font-family: Titillium Web;
+    font-size: 18px;
+    font-weight: bold ;
+    text-align: center;
+    color:#333333;
+    text-align: left;
+    padding-left: 15px; 
+}
+
+.IS-list ul li{
+     padding-left: 15px; 
+     font-family: Titillium Web;
+     font-size: 16px;
+}
+/* end loop course*/
+
+
+/* content course*/
+.course-content .no-margin,p{
+    margin:0;
+    padding: 0;
+}
+
+.IS_container{
+    width: 280px;
+}
+
+
+.image-course {
+ 
+    height: 200px ;
+    background-position: center center ;
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+
+.box{
+    padding:0px 10px;
+}
+
+.box-part{
+    width: 270px ;
+    background-color: #FFF;
+    margin-bottom: 50px;
+  
+}
+.col-md-1 {
+    max-width: 6.333333% !important;
+}
+.post, .page {
+    margin: 0 !important;
+    padding: 0;
+}
+#secondary{
+    display: none;
+}
+
+.name_category{
+    font-family: Titillium Web;
+    font-size: 12px;
+    padding-top: 20px;
+    padding-left: 10px;
+
+}
+.name_category  a{
+    padding: 8px 20px 8px 20px;
+    background-color: rgba(64,62,58,0.5); ;
+
+}
+.name_category  a{
+    color: #ffffff ;
+
+}
+
+.name_category  a:visited{
+   color: #ffffff ;
+}
+.name_category  a:active{
+   color: #ffffff ;
+}
+.name_category a:link{
+   
+}
+
+.title_course h5{
+    font-family: Titillium Web;
+    font-size: 20px;
+    padding: 20px 20px 0px 20px !important;
+    color: #333333;
+    font-weight: bold;
+
+
+}
+.text_course p{
+    font-family: Titillium Web;
+    font-size: 14px;
+    padding: 10px 20px 20px 20px !important;
+    color: #333333;
+
+}
+.duration p{
+    font-family: Titillium Web;
+    font-size: 14px;
+    padding: 0px 20px 0px 20px !important;
+    color: #333333;
+}
+
+.btn-pay{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.btn-pay a{
+    font-family: Titillium Web;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    padding:10px 30px 10px 30px;
+    background-color: #33a8c8;
+    border:none;
+}
+
+.btn-pay  a:visited{
+   color: #ffffff ;
+}
+.btn-pay  a:active{
+   color: #ffffff ;
+}
+.btn-pay a:link{
+   color: #ffffff ;
+}
+
+.btn-pay a:hover{
+   background-color: #33a8c8;
+}
+
+.duration span{
+    font-family: Titillium Web;
+    font-size: 14px;
+    font-weight: bold;
+    color:#47b0c7;
+}
+
+.course, .course-container, .course-container .course {
+    border-bottom: none;
+}
+
+/* end content course*/
+
+
+/* individual course */
+
+
+
+/* end individual course */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

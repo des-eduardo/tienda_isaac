@@ -1,0 +1,254 @@
+2019-12-30T22:31:53+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on boolean in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:74
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-co in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 74
+
+2019-12-30T22:31:56+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on boolean in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:74
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-co in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 74
+
+2019-12-30T22:35:43+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:47
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 47
+
+2019-12-30T22:42:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_price_html() in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:65
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plug in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 65
+
+2019-12-30T22:42:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_price_html() in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:65
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plug in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 65
+
+2019-12-30T22:42:38+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:64
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-conte in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 64
+
+2019-12-30T22:42:54+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:64
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/pl in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 64
+
+2019-12-30T22:44:58+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:45:01+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:45:02+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:45:02+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:45:02+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:45:04+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:45:32+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:47
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 47
+
+2019-12-30T22:45:43+00:00 CRITICAL Uncaught Error: Call to undefined function get_name() in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:47
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/wo in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 47
+
+2019-12-30T22:46:05+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:46:09+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:46:09+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:46:09+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:46:09+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:49
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 49
+
+2019-12-30T22:48:34+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:53
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-conte in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 53
+
+2019-12-30T22:48:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:51
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-conte in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 51
+
+2019-12-30T22:49:12+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:51
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-conte in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 51
+
+2019-12-30T22:50:57+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:43
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/pl in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 43
+
+2019-12-30T22:51:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:43
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/w in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 43
+
+2019-12-30T22:51:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:57
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/w in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 57
+
+2019-12-30T22:52:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_price() in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:57
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugi in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 57
+
+2019-12-30T23:01:53+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on boolean in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:48
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 48
+
+2019-12-30T23:02:54+00:00 CRITICAL syntax error, unexpected ':', expecting ',' or ';' in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 47
+
+2019-12-30T23:06:53+00:00 CRITICAL Uncaught Error: Call to a member function get_name() on null in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:57
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plu in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 57
+
+2019-12-30T23:08:51+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php:40
+Stack trace:
+#0 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-includes/template.php(724): require()
+#1 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/class-sensei-templates.php(55): load_template('/mnt/BLOCKSTORA...', false)
+#2 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/woothemes-sensei/plugins/sensei-lms/includes/template-functions.php(1216): Sensei_Templates::get_part('content', 'course')
+#3 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/loop-course.php(62): sensei_load_template_part('content', 'course')
+#4 /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/plugins/w in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 40
+
+2019-12-30T23:10:44+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 133
+
+2019-12-30T23:10:47+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 133
+
+2019-12-30T23:16:58+00:00 CRITICAL 'continue' not in the 'loop' or 'switch' context in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 58
+
+2019-12-30T23:18:20+00:00 CRITICAL 'continue' not in the 'loop' or 'switch' context in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 58
+
+2019-12-30T23:23:20+00:00 CRITICAL syntax error, unexpected '}' in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 51
+
+2019-12-30T23:23:22+00:00 CRITICAL syntax error, unexpected '}' in /mnt/BLOCKSTORAGE/home/258137.cloudwaysapps.com/pcdmvwkzjt/public_html/wp-content/themes/online_courses/sensei/content-course.php on line 51
+
